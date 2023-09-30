@@ -1,0 +1,384 @@
+Station Name,Line,Ok,,,,
+Acton Town,"District
+Piccadilly",TRUE,,,,
+Aldgate,"Metropolitan
+Circle",TRUE,,,,
+Aldgate East,"Hammersmith & City
+District",TRUE,,,,
+Alperton,Piccadilly,TRUE,,,,
+Amersham,Metropolitan,TRUE,,,,
+Angel,Northern,TRUE,,,,
+Archway,Northern,TRUE,,,,
+Arnos Grove,Piccadilly,TRUE,,,,
+Arsenal,Piccadilly,TRUE,,,,
+Baker Street,"Metropolitan
+Bakerloo
+Circle
+Jubilee
+Hammersmith & City",TRUE,,,,
+Balham,Northern,TRUE,,,,
+Bank,"Waterloo & City
+Northern
+Central",TRUE,,,,
+Barbican,"Metropolitan
+Circle
+Hammersmith & City",TRUE,,,,
+Barking,"District
+Hammersmith & City",TRUE,,,,
+Barkingside,Central,TRUE,,,,
+Barons Court,"District
+Piccadilly",TRUE,,,,
+Battersea Power Station,Northern,TRUE,,,,
+Bayswater,"District
+Circle",TRUE,,,,
+Becontree,District,FALSE,,,,
+Belsize Park,Northern,TRUE,,,,
+Bermondsey,Jubilee,FALSE,,,,
+Bethnal Green,Central,TRUE,,,,
+Blackfriars,"District
+Circle",TRUE,,,,
+Blackhorse Road,Victoria,FALSE,,,,
+Bond Street,"Central
+Jubilee",TRUE,,,,
+Borough,Northern,TRUE,,,,
+Boston Manor,Piccadilly,TRUE,,,,
+Bounds Green,Piccadilly,TRUE,,,,
+Bow Road,"District
+Hammersmith & City",TRUE,,,,
+Brent Cross,Northern,TRUE,,,,
+Brixton,Victoria,FALSE,,,,
+Bromley-by-Bow,"District
+Hammersmith & City",TRUE,,,,
+Buckhurst Hill,Central,TRUE,,,,
+Burnt Oak,Northern,TRUE,,,,
+Caledonian Road,Piccadilly,TRUE,,,,
+Camden Town,Northern,TRUE,,,,
+Canada Water,Jubilee,FALSE,,,,
+Canary Wharf,Jubilee,FALSE,,,,
+Canning Town,Jubilee,FALSE,,,,
+Cannon Street,"District
+Circle",TRUE,,,,
+Canons Park,Jubilee,FALSE,,,,
+Chalfont & Latimer,Metropolitan,TRUE,,,,
+Chalk Farm,Northern,TRUE,,,,
+Chancery Lane,Central,TRUE,,,,
+Charing Cross,"Bakerloo
+Northern",TRUE,,,,
+Chesham,Metropolitan,TRUE,,,,
+Chigwell,Central,TRUE,,,,
+Chiswick Park,District,FALSE,,,,
+Chorleywood,Metropolitan,TRUE,,,,
+Clapham Common,Northern,TRUE,,,,
+Clapham North,Northern,TRUE,,,,
+Clapham South,Northern,TRUE,,,,
+Cockfosters,Piccadilly,TRUE,,,,
+Colindale,Northern,TRUE,,,,
+Colliers Wood,Northern,TRUE,,,,
+Covent Garden,Piccadilly,TRUE,,,,
+Croxley,Metropolitan,TRUE,,,,
+Dagenham East,District,FALSE,,,,
+Dagenham Heathway,District,FALSE,,,,
+Debden,Central,TRUE,,,,
+Dollis Hill,Jubilee,FALSE,,,,
+Ealing Broadway,"District
+Central",TRUE,,,,
+Ealing Common,"District
+Piccadilly",TRUE,,,,
+Earl's Court,"District
+Piccadilly",TRUE,,,,
+East Acton,Central,TRUE,,,,
+East Finchley,Northern,TRUE,,,,
+East Ham,"District
+Hammersmith & City",TRUE,,,,
+East Putney,District,FALSE,,,,
+Eastcote,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Edgware,Northern,TRUE,,,,
+Edgware Road,Bakerloo,FALSE,,,,
+Edgware Road,"Hammersmith & City
+District
+Circle",TRUE,,,,
+Elephant & Castle,"Northern
+Bakerloo",TRUE,,,,
+Elm Park,District,FALSE,,,,
+Embankment,"District
+Bakerloo
+Northern
+Circle",TRUE,,,,
+Epping,Central,TRUE,,,,
+Euston,"Northern
+Victoria",TRUE,,,,
+Euston Square,"Metropolitan
+Circle
+Hammersmith & City",TRUE,,,,
+Fairlop,Central,TRUE,,,,
+Farringdon,"Metropolitan
+Circle
+Hammersmith & City",TRUE,,,,
+Finchley Central,Northern,TRUE,,,,
+Finchley Road,"Metropolitan
+Jubilee[f]",TRUE,,,,
+Finsbury Park,"Piccadilly
+Victoria",TRUE,,,,
+Fulham Broadway,District,FALSE,,,,
+Gants Hill,Central,TRUE,,,,
+Gloucester Road,"District
+Piccadilly
+Circle",TRUE,,,,
+Golders Green,Northern,TRUE,,,,
+Goldhawk Road,"Hammersmith & City
+Circle",TRUE,,,,
+Goodge Street,Northern,TRUE,,,,
+Grange Hill,Central,TRUE,,,,
+Great Portland Street,"Metropolitan
+Circle
+Hammersmith & City",TRUE,,,,
+Greenford,Central,TRUE,,,,
+Green Park,"Piccadilly
+Victoria
+Jubilee",TRUE,,,,
+Gunnersbury,District,FALSE,,,,
+Hainault,Central,TRUE,,,,
+Hammersmith,"District
+Piccadilly",TRUE,,,,
+Hammersmith,"Hammersmith & City
+Circle",TRUE,,,,
+Hampstead,Northern,TRUE,,,,
+Hanger Lane,Central,TRUE,,,,
+Harlesden,Bakerloo,FALSE,,,,
+Harrow & Wealdstone,Bakerloo,FALSE,,,,
+Harrow-on-the-Hill,Metropolitan,TRUE,,,,
+Hatton Cross,Piccadilly,TRUE,,,,
+Heathrow Terminals 2 & 3,Piccadilly,TRUE,,,,
+Heathrow Terminal 4,Piccadilly,TRUE,,,,
+Heathrow Terminal 5,Piccadilly,TRUE,,,,
+Hendon Central,Northern,TRUE,,,,
+High Barnet,Northern,TRUE,,,,
+Highbury & Islington,Victoria,FALSE,,,,
+Highgate,Northern,TRUE,,,,
+High Street Kensington,"District
+Circle",TRUE,,,,
+Hillingdon,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Holborn,"Central
+Piccadilly",TRUE,,,,
+Holland Park,Central,TRUE,,,,
+Holloway Road,Piccadilly,TRUE,,,,
+Hornchurch,District,FALSE,,,,
+Hounslow Central,Piccadilly,TRUE,,,,
+Hounslow East,Piccadilly,TRUE,,,,
+Hounslow West,Piccadilly,TRUE,,,,
+Hyde Park Corner,Piccadilly,TRUE,,,,
+Ickenham,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Kennington,Northern,TRUE,,,,
+Kensal Green,Bakerloo,FALSE,,,,
+Kensington (Olympia),District,FALSE,,,,
+Kentish Town,Northern,TRUE,,,,
+Kenton,Bakerloo,FALSE,,,,
+Kew Gardens,District,FALSE,,,,
+Kilburn,Jubilee,FALSE,,,,
+Kilburn Park,Bakerloo,FALSE,,,,
+Kingsbury,Jubilee,FALSE,,,,
+King's Cross St Pancras,"Metropolitan
+Northern
+Piccadilly
+Circle
+Victoria
+Hammersmith & City",TRUE,,,,
+Knightsbridge,Piccadilly,TRUE,,,,
+Ladbroke Grove,"Hammersmith & City
+Circle",TRUE,,,,
+Lambeth North,Bakerloo,FALSE,,,,
+Lancaster Gate,Central,TRUE,,,,
+Latimer Road,"Hammersmith & City
+Circle",TRUE,,,,
+Leicester Square,"Piccadilly
+Northern",TRUE,,,,
+Leyton,Central,TRUE,,,,
+Leytonstone,Central,TRUE,,,,
+Liverpool Street,"Metropolitan
+Central
+Circle
+Hammersmith & City",TRUE,,,,
+London Bridge,"Northern
+Jubilee",TRUE,,,,
+Loughton,Central,TRUE,,,,
+Maida Vale,Bakerloo,FALSE,,,,
+Manor House,Piccadilly,TRUE,,,,
+Mansion House,"District
+Circle",TRUE,,,,
+Marble Arch,Central,TRUE,,,,
+Marylebone,Bakerloo,FALSE,,,,
+Mile End,"District
+Hammersmith & City
+Central",TRUE,,,,
+Mill Hill East,Northern,TRUE,,,,
+Monument,"District
+Circle",TRUE,,,,
+Moorgate,"Metropolitan
+Northern
+Circle
+Hammersmith & City",TRUE,,,,
+Moor Park,Metropolitan,TRUE,,,,
+Morden,Northern,TRUE,,,,
+Mornington Crescent,Northern,TRUE,,,,
+Neasden,Jubilee,FALSE,,,,
+Newbury Park,Central,TRUE,,,,
+Nine Elms,Northern,TRUE,,,,
+North Acton,Central,TRUE,,,,
+North Ealing,Piccadilly,TRUE,,,,
+North Greenwich,Jubilee,FALSE,,,,
+North Harrow,Metropolitan,TRUE,,,,
+North Wembley,Bakerloo,FALSE,,,,
+Northfields,Piccadilly,TRUE,,,,
+Northolt,Central,TRUE,,,,
+Northwick Park,Metropolitan,TRUE,,,,
+Northwood,Metropolitan,TRUE,,,,
+Northwood Hills,Metropolitan,TRUE,,,,
+Notting Hill Gate,"District
+Central
+Circle",TRUE,,,,
+Oakwood,Piccadilly,TRUE,,,,
+Old Street,Northern,TRUE,,,,
+Osterley,Piccadilly,TRUE,,,,
+Oval,Northern,TRUE,,,,
+Oxford Circus,"Central
+Bakerloo
+Victoria",TRUE,,,,
+Paddington,"District
+Circle
+Bakerloo",TRUE,,,,
+Paddington,"Hammersmith & City
+Circle",TRUE,,,,
+Park Royal,Piccadilly,TRUE,,,,
+Parsons Green,District,FALSE,,,,
+Perivale,Central,TRUE,,,,
+Piccadilly Circus,"Bakerloo
+Piccadilly",TRUE,,,,
+Pimlico,Victoria,FALSE,,,,
+Pinner,Metropolitan,TRUE,,,,
+Plaistow,"District
+Hammersmith & City",TRUE,,,,
+Preston Road,Metropolitan,TRUE,,,,
+Putney Bridge,District,FALSE,,,,
+Queen's Park,Bakerloo,FALSE,,,,
+Queensbury,Jubilee,FALSE,,,,
+Queensway,Central,TRUE,,,,
+Ravenscourt Park,District,FALSE,,,,
+Rayners Lane,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Redbridge,Central,TRUE,,,,
+Regent's Park,Bakerloo,FALSE,,,,
+Richmond,District,FALSE,,,,
+Rickmansworth,Metropolitan,TRUE,,,,
+Roding Valley,Central,TRUE,,,,
+Royal Oak,"Hammersmith & City
+Circle",TRUE,,,,
+Ruislip,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Ruislip Gardens,Central,TRUE,,,,
+Ruislip Manor,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Russell Square,Piccadilly,TRUE,,,,
+St James's Park,"District
+Circle",TRUE,,,,
+St John's Wood,Jubilee[g],FALSE,,,,
+St Paul's,Central,TRUE,,,,
+Seven Sisters,Victoria,FALSE,,,,
+Shepherd's Bush,Central,TRUE,,,,
+Shepherd's Bush Market,"Hammersmith & City
+Circle",TRUE,,,,
+Sloane Square,"District
+Circle",TRUE,,,,
+Snaresbrook,Central,TRUE,,,,
+South Ealing,Piccadilly,TRUE,,,,
+South Harrow,Piccadilly,TRUE,,,,
+South Kensington,"District
+Piccadilly
+Circle",TRUE,,,,
+South Kenton,Bakerloo,FALSE,,,,
+South Ruislip,Central,TRUE,,,,
+South Wimbledon,Northern,TRUE,,,,
+South Woodford,Central,TRUE,,,,
+Southfields,District,FALSE,,,,
+Southgate,Piccadilly,TRUE,,,,
+Southwark,Jubilee,FALSE,,,,
+Stamford Brook,District,FALSE,,,,
+Stanmore,Jubilee,FALSE,,,,
+Stepney Green,"District
+Hammersmith & City",TRUE,,,,
+Stockwell,"Northern
+Victoria",TRUE,,,,
+Stonebridge Park,Bakerloo,FALSE,,,,
+Stratford,"Central
+Jubilee",TRUE,,,,
+Sudbury Hill,Piccadilly,TRUE,,,,
+Sudbury Town,Piccadilly,TRUE,,,,
+Swiss Cottage,Jubilee[g],FALSE,,,,
+Temple,"District
+Circle",TRUE,,,,
+Theydon Bois,Central,TRUE,,,,
+Tooting Bec,Northern,TRUE,,,,
+Tooting Broadway,Northern,TRUE,,,,
+Tottenham Court Road,"Central
+Northern",TRUE,,,,
+Tottenham Hale,Victoria,FALSE,,,,
+Totteridge & Whetstone,Northern,TRUE,,,,
+Tower Hill,"District
+Circle",TRUE,,,,
+Tufnell Park,Northern,TRUE,,,,
+Turnham Green,"District
+Piccadilly",TRUE,,,,
+Turnpike Lane,Piccadilly,TRUE,,,,
+Upminster,District,FALSE,,,,
+Upminster Bridge,District,FALSE,,,,
+Upney,District,FALSE,,,,
+Upton Park,"District
+Hammersmith & City",TRUE,,,,
+Uxbridge,"Metropolitan
+Piccadilly[k]",TRUE,,,,
+Vauxhall,Victoria,FALSE,,,,
+Victoria,"District
+Circle
+Victoria",TRUE,,,,
+Walthamstow Central,Victoria,FALSE,,,,
+Wanstead,Central,TRUE,,,,
+Warren Street,"Northern
+Victoria",TRUE,,,,
+Warwick Avenue,Bakerloo,FALSE,,,,
+Waterloo,"Waterloo & City
+Bakerloo
+Northern
+Jubilee",TRUE,,,,
+Watford,Metropolitan,TRUE,,,,
+Wembley Central,Bakerloo,FALSE,,,,
+Wembley Park,"Metropolitan
+Jubilee[f]",TRUE,,,,
+West Acton,Central,TRUE,,,,
+West Brompton,District,FALSE,,,,
+West Finchley,Northern,TRUE,,,,
+West Ham,"District
+Hammersmith & City
+Jubilee",TRUE,,,,
+West Hampstead,Jubilee,FALSE,,,,
+West Harrow,Metropolitan,TRUE,,,,
+West Kensington,District,FALSE,,,,
+West Ruislip,Central,TRUE,,,,
+Westbourne Park,"Hammersmith & City
+Circle",TRUE,,,,
+Westminster,"District
+Circle
+Jubilee",TRUE,,,,
+White City,Central,TRUE,,,,
+Whitechapel,"District
+Hammersmith & City",TRUE,,,,
+Willesden Green,Jubilee,FALSE,,,,
+Willesden Junction,Bakerloo,FALSE,,,,
+Wimbledon,District,FALSE,,,,
+Wimbledon Park,District,FALSE,,,,
+Wood Green,Piccadilly,TRUE,,,,
+Wood Lane,"Hammersmith & City
+Circle",TRUE,,,,
+Woodford,Central,TRUE,,,,
+Woodside Park,Northern,TRUE,,,,
